@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <dimen name="loginTitleSize">28sp</dimen>
+    <dimen name="padding20dp">20dp</dimen>
+    <dimen name="margin8dp">8sp</dimen>
+    <dimen name="loginTextSize">12sp</dimen>
+    <dimen name="loginButtonTextSize">14sp</dimen>
+    <dimen name="weatherTextSize">14sp</dimen>
+    <dimen name="padding4dp">4dp</dimen>
+
+
+
+</resources>
